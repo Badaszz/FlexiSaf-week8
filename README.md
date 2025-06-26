@@ -7,7 +7,7 @@ Body Language Detector is a machine learning project that uses Media Pipe to ext
 ## 📌 Features
 
 - Extracts **pose** and **face** landmarks using MediaPipe
-- Classifies human **body language** (e.g., *confident*, *nervous*, *relaxed*) using a trained model
+- Classifies human **body language** (e.g., *anxious*, *folded arms*, *drowsy*) using a trained model
 - Visualizes predictions on images
 - Built with Python, OpenCV, scikit-learn, and Jupyter Notebook
 
