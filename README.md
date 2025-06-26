@@ -31,6 +31,7 @@ Currently trained on:
 │   └── pose_face_rf_model.pkl     # Trained RandomForest model
 ├── data/
 │   └── body_language_dataset.csv  # Extracted features + labels
+│   └── body_pose # dataset for the images used to extract features with folders for each label
 ├── README.md
 └── requirements.txt
 ```
